@@ -1,6 +1,6 @@
 # Bugmaster_3
 
-**Red Team Operator | Bug Bounty Hunter | Kernel Developer**
+**Red Team Operator ° Bug Bounty Hunter ° Kernel Developer**
 
 > *“I’m Bugmaster_3 – a malicious hacker on paper, but every byte I break is meant to be fixed before the bad actors touch it. I secure systems by thinking like the adversary.”*
 
@@ -65,11 +65,20 @@ I do not engage in, support, or condone any illegal activity.
 
 ---
 
+## Teams & Affiliations
+
+I contribute to and collaborate with the following security research teams:
+
+[![Bedusec](https://img.shields.io/badge/Bedusec-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/bedusec)
+[![ECFSEC](https://img.shields.io/badge/ECFSEC-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ecfsec)
+
+---
+
 ## Connect
 
 - **GitHub:** [@bugmaster-3](https://github.com/bugmaster-3)
 - **Email / Signal:** available upon request for verified security professionals
-- **PGP Key:** [0xBUGMASTER3] (ask for current fingerprint)
+- **PGP Key:** `0xBUGMASTER3` (ask for current fingerprint)
 
 ---
 
